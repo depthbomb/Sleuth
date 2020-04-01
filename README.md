@@ -35,6 +35,10 @@ Download [one of the releases](https://github.com/depthbomb/Sleuth/releases/late
 
 You will need [.NET Framework 4.6](https://www.microsoft.com/en-us/download/details.aspx?id=48130) or higher installed.
 
+## Accuracy
+
+Sleuth is not intended to be 100% accurate in finding imposters. In fact, it doesn't take anything into consideration; it just votes for the first answer every time since, statistically, it has the same chance of finding an imposter that way as choosing an answer at random.
+
 ---
 
 <sup>1</sup> Yes, the program does require your Reddit username and password. However I assure you that we won't send it to a super shady server so we can see your boring posts and comments.
